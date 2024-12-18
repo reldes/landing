@@ -7,8 +7,8 @@
     </v-app>
 </template>
 
-<script>
-import LeftMenu from '../components/LeftMenu.vue';
+<script lang="ts">
+import LeftMenu from '@/components/LeftMenu.vue';
 
 export default {
     name: 'Layout',
